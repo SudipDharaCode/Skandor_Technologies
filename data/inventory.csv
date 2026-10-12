@@ -1,0 +1,41 @@
+id,name,product_type,material,stone_type,stone_count,size_mm,setting_style,base_price_usd,stone_unit_price_usd
+R001,Classic Solitaire Ring,ring,yellow_gold,diamond,1,17.3,solitaire,1200,900
+R002,Platinum Solitaire Ring,ring,platinum,diamond,1,17.3,solitaire,1650,900
+R003,White Gold Halo Ring 12,ring,white_gold,diamond,12,17.3,halo,1450,60
+R004,Yellow Gold Halo Ring 12,ring,yellow_gold,diamond,12,17.3,halo,1400,60
+R005,White Gold Halo Ring 16,ring,white_gold,diamond,16,17.3,halo,1600,60
+R006,White Gold Pave Band 20,ring,white_gold,diamond,20,17.3,pave,980,35
+R007,Rose Gold Pave Band 20,ring,rose_gold,diamond,20,17.3,pave,960,35
+R008,Platinum Pave Band 30,ring,platinum,diamond,30,17.3,pave,1750,35
+R009,Sapphire Channel Band,ring,white_gold,sapphire,8,18.1,channel,890,70
+R010,Yellow Gold Channel Band,ring,yellow_gold,diamond,8,18.1,channel,920,70
+R011,Ruby Cluster Ring,ring,yellow_gold,ruby,7,16.5,cluster,1100,85
+R012,Emerald Solitaire Ring,ring,yellow_gold,emerald,1,16.5,solitaire,1300,700
+R013,Plain Yellow Gold Band,ring,yellow_gold,none,0,18.1,plain,450,0
+R014,Plain Silver Band,ring,silver,none,0,18.1,plain,90,0
+R015,Silver CZ Halo Ring,ring,silver,cubic_zirconia,14,17.3,halo,140,4
+R016,Silver CZ Pave Ring,ring,silver,cubic_zirconia,24,16.5,pave,120,3
+R017,Sapphire Halo Ring,ring,white_gold,sapphire,14,17.3,halo,1550,75
+R018,Platinum Diamond Eternity Band,ring,platinum,diamond,22,18.9,channel,2100,50
+P001,White Gold Solitaire Pendant,pendant,white_gold,diamond,1,12,solitaire,750,600
+P002,Yellow Gold Halo Pendant,pendant,yellow_gold,diamond,10,15,halo,820,45
+P003,Rose Gold Halo Pendant,pendant,rose_gold,diamond,10,15,halo,800,45
+P004,Ruby Cluster Pendant,pendant,yellow_gold,ruby,6,18,cluster,690,80
+P005,Silver CZ Pave Heart Pendant,pendant,silver,cubic_zirconia,18,20,pave,85,2
+P006,Plain Gold Disc Pendant,pendant,yellow_gold,none,0,20,plain,300,0
+P007,Emerald Halo Pendant,pendant,white_gold,emerald,12,16,halo,1150,55
+E001,White Gold Diamond Studs,earrings,white_gold,diamond,2,6,solitaire,900,400
+E002,Yellow Gold Diamond Studs,earrings,yellow_gold,diamond,2,6,solitaire,880,400
+E003,Diamond Halo Drop Earrings,earrings,white_gold,diamond,24,22,halo,1350,40
+E004,Silver CZ Hoops,earrings,silver,cubic_zirconia,16,25,channel,95,2
+E005,Platinum Sapphire Cluster Earrings,earrings,platinum,sapphire,14,12,cluster,1900,70
+E006,Plain Gold Hoops,earrings,yellow_gold,none,0,30,plain,380,0
+B001,White Gold Diamond Tennis Bracelet,bracelet,white_gold,diamond,40,180,channel,3200,55
+B002,Yellow Gold Diamond Tennis Bracelet,bracelet,yellow_gold,diamond,40,180,channel,3150,55
+B003,Silver CZ Tennis Bracelet,bracelet,silver,cubic_zirconia,45,190,channel,160,2
+B004,Sapphire Line Bracelet,bracelet,white_gold,sapphire,30,180,channel,2600,60
+B005,Rose Gold Chain Bracelet,bracelet,rose_gold,none,0,190,plain,520,0
+N001,Diamond Riviera Necklace,necklace,white_gold,diamond,60,420,channel,6800,60
+N002,Yellow Gold Solitaire Necklace,necklace,yellow_gold,diamond,1,450,solitaire,950,600
+N003,Silver CZ Station Necklace,necklace,silver,cubic_zirconia,9,450,cluster,110,3
+N004,Platinum Chain Necklace,necklace,platinum,none,0,500,plain,1400,0

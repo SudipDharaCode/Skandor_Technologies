@@ -1,0 +1,80 @@
+{
+  "img01_halo12_clean.png": {
+    "true_count": 12,
+    "difficulty": "clean",
+    "metal": "white_gold",
+    "stone": "diamond"
+  },
+  "img02_pave20_rose.png": {
+    "true_count": 20,
+    "difficulty": "mild noise",
+    "metal": "rose_gold",
+    "stone": "diamond"
+  },
+  "img03_channel8_sapphire.png": {
+    "true_count": 8,
+    "difficulty": "dark colored stones",
+    "metal": "white_gold",
+    "stone": "sapphire"
+  },
+  "img04_halo16_blur_noise.png": {
+    "true_count": 16,
+    "difficulty": "heavy blur + noise",
+    "metal": "white_gold",
+    "stone": "diamond"
+  },
+  "img05_pave30_small_platinum.png": {
+    "true_count": 30,
+    "difficulty": "small stones, low metal/stone contrast",
+    "metal": "platinum",
+    "stone": "diamond"
+  },
+  "img06_halo24_touching.png": {
+    "true_count": 24,
+    "difficulty": "stones touching/overlapping",
+    "metal": "yellow_gold",
+    "stone": "diamond"
+  },
+  "img07_halo14_cz_lighting.png": {
+    "true_count": 14,
+    "difficulty": "strong uneven lighting",
+    "metal": "silver",
+    "stone": "cubic_zirconia"
+  },
+  "img08_cluster7_ruby.png": {
+    "true_count": 7,
+    "difficulty": "colored stones, cluster",
+    "metal": "yellow_gold",
+    "stone": "ruby"
+  },
+  "img09_tennis40_two_rows.png": {
+    "true_count": 40,
+    "difficulty": "many small stones",
+    "metal": "yellow_gold",
+    "stone": "diamond"
+  },
+  "img10_solitaire1.png": {
+    "true_count": 1,
+    "difficulty": "single large stone",
+    "metal": "yellow_gold",
+    "stone": "diamond"
+  },
+  "img11_halo22_overlap_jpeg.png": {
+    "true_count": 22,
+    "difficulty": "heavy overlap + JPEG artifacts",
+    "metal": "platinum",
+    "stone": "diamond"
+  },
+  "img12_pave24_lowres.png": {
+    "true_count": 24,
+    "difficulty": "low resolution (128px source)",
+    "metal": "silver",
+    "stone": "cubic_zirconia"
+  },
+  "img13_halo12_reflections.png": {
+    "true_count": 12,
+    "difficulty": "round reflections on metal (false positives)",
+    "metal": "white_gold",
+    "stone": "diamond"
+  }
+}
